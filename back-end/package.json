@@ -1,0 +1,24 @@
+{
+  "name": "socket-chat",
+  "version": "1.0.0",
+  "description": "Socket Chat app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "*",
+    "express": "*",
+    "jquery": "*",
+    "socket.io": "*",
+    "bcryptjs": "*",
+    "mongoose": "*",
+    "body-parser": "*",
+    "passport": "*",
+    "passport-jwt": "*",
+    "cors": "*",
+    "jsonwebtoken": "*"
+  }
+}
